@@ -68,7 +68,6 @@ A practical resource that connects generative AI with instructional design, lear
 **AI, learning, and collaboration**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=flat-square&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Canvas LMS](https://img.shields.io/badge/Canvas_LMS-E13F29?style=flat-square)
 ![Articulate 360](https://img.shields.io/badge/Articulate_360-5A2D82?style=flat-square)
