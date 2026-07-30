@@ -57,7 +57,7 @@ A practical resource that connects generative AI with instructional design, lear
 
 ## Technologies and Platforms
 
-**Web and development**
+**Web and Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -65,7 +65,7 @@ A practical resource that connects generative AI with instructional design, lear
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
 
-**AI, learning, and collaboration**
+**AI, Learning, and Collaboration**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
