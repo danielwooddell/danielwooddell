@@ -96,7 +96,7 @@ My work is generally guided by four principles:
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-wooddell/)
-- [Portfolio](https://danieldev.ink/)
+- [Portfolio](https://danielwooddell.com/)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://winterface.online/)
 
