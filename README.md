@@ -6,7 +6,7 @@
 
 I build practical, accessible technology experiences at the intersection of higher education, artificial intelligence, and web development.
 
-For more than 18 years, I have worked across higher education, healthcare IT, SaaS, enterprise systems, technical support, and digital learning. At Xavier University, I lead support, training, research, and implementation for educational technologies while developing faculty-facing resources that make complex tools easier to understand and use.
+For more than 20 years, I have worked across higher education, healthcare IT, SaaS, enterprise systems, technical support, and digital learning. At Xavier University, I lead support, training, research, and implementation for educational technologies while developing faculty-facing resources that make complex tools easier to understand and use.
 
 Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a browser-based media and interaction platform designed around customization, accessibility, and low-friction use.
 
@@ -79,6 +79,7 @@ A practical resource that connects generative AI with instructional design, lear
 - **Founder & CEO**, Wooddell Digital Ventures LLC
 - Former **Senior Application Analyst**, Greater Cincinnati Water Works
 - Former **Information Technology Manager**, Medicfusion EMR
+- Quality Matters Certified
 - Project Management Professional (**PMP**)
 - Microsoft-certified in **Career Essentials in Generative AI**
 
