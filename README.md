@@ -75,7 +75,7 @@ A practical resource that connects generative AI with instructional design, lear
 
 ## Professional Background
 
-- **Senior Instructional Technologist**, Xavier University
+- **Senior Educational Technologist**, Xavier University
 - **Founder & CEO**, Wooddell Digital Ventures LLC
 - Former **Senior Application Analyst**, Greater Cincinnati Water Works
 - Former **Information Technology Manager**, Medicfusion EMR
