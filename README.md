@@ -10,7 +10,7 @@ For more than 20 years, I have worked across higher education, healthcare IT, Sa
 
 Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a browser-based media and interaction platform designed around customization, accessibility, and low-friction use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-danieldev.ink-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danieldev.ink/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danielwooddell.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielwooddell.com/)
 [![Wooddell Digital Ventures](https://img.shields.io/badge/Wooddell_Digital_Ventures-Visit_Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://wooddelldigitalventures.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Wooddell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-wooddell/)
 
