@@ -2,7 +2,7 @@
 
 # Daniel Wooddell
 
-**Senior Technologist · Founder & CEO, Wooddell Digital Ventures LLC**
+**Founder & CEO, Wooddell Digital Ventures LLC · **Senior Technologist
 
 I build practical, accessible technology experiences at the intersection of higher education, artificial intelligence, and web development.
 
