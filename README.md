@@ -40,10 +40,6 @@ A faculty-facing educational technology ecosystem that organizes tools, teaching
 
 A structured collection of AI guidance for higher education, including prompting support, tool comparisons, quick wins, examples, responsible-use considerations, and Jesuit teaching perspectives.
 
-### [Using AI for Effective Course Design](https://www.xavier.edu/teachingwithtech/ai-in-design/)
-
-A practical resource that connects generative AI with instructional design, learning objectives, assessment, accessibility, and responsible course development.
-
 ## Areas of Expertise
 
 - Educational technology strategy and implementation
