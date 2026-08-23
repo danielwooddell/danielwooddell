@@ -16,10 +16,10 @@ Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a br
 
 ## Current Focus
 
+- Completing a Master of Science in **Instructional Design & Development** at Xavier University
 - Building and refining **WInterface™** as the flagship product of Wooddell Digital Ventures
 - Exploring responsible and practical uses of generative AI in teaching, course design, and faculty workflows
 - Expanding accessible, faculty-centered educational technology resources
-- Completing a Master of Science in **Instructional Design & Development** at Xavier University
 - Creating web experiences that are useful, responsive, and visually distinctive without becoming unnecessarily complex
 
 ## Featured Work
