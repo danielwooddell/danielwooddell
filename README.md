@@ -94,6 +94,6 @@ My work is generally guided by four principles:
 - [LinkedIn](https://www.linkedin.com/in/daniel-wooddell/)
 - [Portfolio](https://danielwooddell.com/)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
-- [WInterface™](https://winterface.llc/)
+- [WInterface™](https://w-interface.com/)
 
 > Technology should reduce friction, expand access, and make the next step obvious.
