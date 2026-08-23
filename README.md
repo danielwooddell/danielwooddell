@@ -70,8 +70,8 @@ A structured collection of AI guidance for higher education, including prompting
 
 ## Professional Background
 
-- **Senior Educational Technologist**, Xavier University
 - **Founder & CEO**, Wooddell Digital Ventures LLC
+- **Senior Educational Technologist**, Xavier University
 - Former **Senior Application Analyst**, Greater Cincinnati Water Works
 - Former **Information Technology Manager**, Medicfusion EMR
 - Quality Matters Certified
