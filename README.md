@@ -2,7 +2,7 @@
 
 # Daniel Wooddell
 
-**Founder & CEO, Wooddell Digital Ventures LLC · Senior Technologist @ Xavier University**
+**Founder & CEO, Wooddell Digital Ventures LLC · Senior Educational Technologist**
 
 I build practical, accessible technology experiences at the intersection of higher education, artificial intelligence, and web development.
 
@@ -16,7 +16,7 @@ Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a br
 
 ## Current Focus
 
-- Completing a Master of Science in **Instructional Design & Development** at Xavier University
+- Completing a Master of Science in **Instructional Design & Development**
 - Building and refining **WInterface™** as the flagship product of Wooddell Digital Ventures
 - Exploring responsible and practical uses of generative AI in teaching, course design, and faculty workflows
 - Expanding accessible, faculty-centered educational technology resources
