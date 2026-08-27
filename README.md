@@ -45,7 +45,7 @@ A structured collection of AI guidance for higher education, including prompting
 - Educational technology strategy and implementation
 - Generative AI integration for education and business
 - Learning management systems and academic technology
-- HTML, CSS, JS, responsive design, and front-end prototyping
+- HTML, CSS, JS, responsive design, and full-stack prototyping
 - Accessibility and inclusive digital design
 - Technical training, documentation, and faculty support
 - SaaS operations, customer experience, and service improvement
