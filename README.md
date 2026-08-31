@@ -75,6 +75,8 @@ A structured collection of AI guidance for higher education, including prompting
 **AI, Learning, and Collaboration**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Canvas LMS](https://img.shields.io/badge/Canvas_LMS-E13F29?style=flat-square)
 ![Articulate 360](https://img.shields.io/badge/Articulate_360-5A2D82?style=flat-square)
