@@ -39,6 +39,10 @@ A faculty-facing educational technology ecosystem that organizes tools, teaching
 
 A structured collection of AI guidance for higher education, including prompting support, tool comparisons, quick wins, examples, responsible-use considerations, and Jesuit teaching perspectives.
 
+### [EdTech Assistant (ETA)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
+
+A custom GPT designed to provide practical educational technology support for faculty and staff, including guidance on Canvas, accessibility, instructional tools, generative AI, and other commonly used academic technologies.
+
 ## Areas of Expertise
 
 - Educational technology strategy and implementation
@@ -77,6 +81,7 @@ A structured collection of AI guidance for higher education, including prompting
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+[![EdTech Assistant](https://img.shields.io/badge/Custom_GPT-EdTech_Assistant_(ETA)-412991?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Canvas LMS](https://img.shields.io/badge/Canvas_LMS-E13F29?style=flat-square)
 ![Articulate 360](https://img.shields.io/badge/Articulate_360-5A2D82?style=flat-square)
@@ -108,5 +113,6 @@ My work is generally guided by four principles:
 - [Portfolio](https://danielwooddell.com/)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://w-interface.com/)
+- [EdTech Assistant (ETA)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
 
 > Technology should reduce friction, expand access, and make the next step obvious.
