@@ -111,6 +111,7 @@ My work is generally guided by four principles:
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-wooddell/)
 - [Portfolio](https://danielwooddell.com/)
+- [Email](mailto:daniel@wooddelldigitalventures.com)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://w-interface.com/)
 
