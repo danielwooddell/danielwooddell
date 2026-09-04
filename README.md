@@ -113,6 +113,5 @@ My work is generally guided by four principles:
 - [Portfolio](https://danielwooddell.com/)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://w-interface.com/)
-- [EdTech Assistant (ETA)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
 
 > Technology should reduce friction, expand access, and make the next step obvious.
