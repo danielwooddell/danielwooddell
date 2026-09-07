@@ -45,13 +45,13 @@ A custom GPT designed to provide practical educational technology support for fa
 ### Web Platforms, Analytics, and Services
 
 <p align="center">
-  <img src="./assets/tech-platforms-services.gif" alt="Animated Platforms, Analytics, and Services technology row: Firebase, Cloudflare, Google Analytics 4, Progressive Web Apps, WebRTC, YouTube API, Microsoft Azure, and Amazon Web Services" width="100%" />
+  <img src="./assets/tech-platforms-services.gif" alt="Animated Platforms, Analytics, and Services technology row: Firebase, Cloudflare, Google Analytics 4, Progressive Web Apps, WebRTC, Microsoft Azure, and Amazon Web Services" width="100%" />
 </p>
 
 ### AI, Learning, and Collaboration
 
 <p align="center">
-  <img src="./assets/tech-ai-learning.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, Articulate 360, Panopto" width="100%" />
+  <img src="./assets/tech-ai-learning.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, and Articulate 360" width="100%" />
 </p>
 
 ## Current Focus
