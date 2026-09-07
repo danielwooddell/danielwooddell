@@ -11,6 +11,17 @@ Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a br
 [![Portfolio](https://img.shields.io/badge/Portfolio-danielwooddell.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielwooddell.com/)
 [![Wooddell Digital Ventures](https://img.shields.io/badge/Wooddell_Digital_Ventures-Visit_Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://wooddelldigitalventures.com/)
 
+## How I Approach Technology
+
+I prefer technology that solves a real problem, respects the user, and makes the next step clear.
+
+My work is generally guided by four principles:
+
+1. **Practical over performative**
+2. **Accessible by design**
+3. **Support people, not just systems**
+4. **Build, test, refine, and keep moving**
+
 ## Featured Work
 
 ### [WInterface™](https://w-interface.com/)
@@ -85,17 +96,6 @@ A custom GPT designed to provide practical educational technology support for fa
 - Quality Matters Certified
 - Project Management Professional (**PMP**)
 - Microsoft-certified in **Career Essentials in Generative AI**
-
-## How I Approach Technology
-
-I prefer technology that solves a real problem, respects the user, and makes the next step clear.
-
-My work is generally guided by four principles:
-
-1. **Practical over performative**
-2. **Accessible by design**
-3. **Support people, not just systems**
-4. **Build, test, refine, and keep moving**
 
 ## Connect
 
