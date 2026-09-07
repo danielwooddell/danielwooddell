@@ -51,7 +51,7 @@ A custom GPT designed to provide practical educational technology support for fa
 ### AI, Learning, and Collaboration
 
 <p align="center">
-  <img src="./assets/tech-ai-learning.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, Articulate 360, Panopto, and Turnitin" width="100%" />
+  <img src="./assets/tech-ai-learning.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, Articulate 360, Panopto" width="100%" />
 </p>
 
 ## Current Focus
