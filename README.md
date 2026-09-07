@@ -12,10 +12,6 @@ Through **Wooddell Digital Ventures LLC**, I am building **WInterface™**, a br
 [![Wooddell Digital Ventures](https://img.shields.io/badge/Wooddell_Digital_Ventures-Visit_Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://wooddelldigitalventures.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Wooddell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-wooddell/)
 
-<p align="center">
-  <img src="./assets/tech-stack.gif" alt="Animated technology stack featuring HTML5, CSS, JavaScript, Python, Git, GitHub, Firebase, Cloudflare, Google Analytics, Claude, and Gemini" width="100%" />
-</p>
-
 ## Featured Work
 
 ### [WInterface™](https://w-interface.com/)
@@ -38,6 +34,26 @@ A structured collection of AI guidance for higher education, including prompting
 
 A custom GPT designed to provide practical educational technology support for faculty and staff, including guidance on Canvas, accessibility, instructional tools, generative AI, and other commonly used academic technologies.
 
+## Technologies and Platforms
+
+### Web and Development
+
+<p align="center">
+  <img src="./assets/tech-web-development.gif" alt="Animated Web and Development technology row: HTML5, CSS, JavaScript, JSON, Python, Git, GitHub, GitHub Pages, and Visual Studio Code" width="100%" />
+</p>
+
+### Web Platforms, Analytics, and Services
+
+<p align="center">
+  <img src="./assets/tech-platforms-services.gif" alt="Animated Platforms, Analytics, and Services technology row: Firebase, Cloudflare, Google Analytics 4, Progressive Web Apps, WebRTC, YouTube API, Microsoft Azure, and Amazon Web Services" width="100%" />
+</p>
+
+### AI, Learning, and Collaboration
+
+<p align="center">
+  <img src="./assets/tech-ai-learning.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, Articulate 360, Panopto, and Turnitin" width="100%" />
+</p>
+
 ## Current Focus
 
 - Completing a Master of Science in **Instructional Design & Development**
@@ -47,38 +63,6 @@ A custom GPT designed to provide practical educational technology support for fa
 - Expanding accessible, faculty-centered educational technology resources
 - Applying web analytics, performance monitoring, and security tools to better understand and improve digital experiences
 - Creating web experiences that are useful, responsive, and visually distinctive without becoming unnecessarily complex
-
-## Technologies and Platforms
-
-### Web and Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning_&_Building-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Web Platforms, Analytics, and Services
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![PWA](https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-### AI, Learning, and Collaboration
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-[![EdTech Assistant](https://img.shields.io/badge/Custom_GPT-EdTech_Assistant_(ETA)-412991?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Canvas LMS](https://img.shields.io/badge/Canvas_LMS-E13F29?style=flat-square)
-![Articulate 360](https://img.shields.io/badge/Articulate_360-5A2D82?style=flat-square)
 
 ## Areas of Expertise
 
