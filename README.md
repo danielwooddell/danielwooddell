@@ -38,19 +38,19 @@ A custom GPT designed to provide practical educational technology support for fa
 ### Web and Development
 
 <p align="center">
-  <img src="./assets/tech-web-development-v52.gif" alt="Animated Web and Development technology row: HTML5, CSS, JavaScript, JSON, Python, Git, GitHub, GitHub Pages, and Visual Studio Code" width="100%" />
+  <img src="./assets/tech-web-development-v53.gif" alt="Animated Web and Development technology row: HTML5, CSS, JavaScript, JSON, Python, Git, GitHub, GitHub Pages, and Visual Studio Code" width="100%" />
 </p>
 
 ### Web Platforms, Analytics, and Services
 
 <p align="center">
-  <img src="./assets/tech-platforms-services-v52.gif" alt="Animated Platforms, Analytics, and Services technology row: Firebase, Cloudflare, Google Analytics 4, Progressive Web Apps, WebRTC, Microsoft Azure, and Amazon Web Services" width="100%" />
+  <img src="./assets/tech-platforms-services-v53.gif" alt="Animated Platforms, Analytics, and Services technology row: Firebase, Cloudflare, Google Analytics 4, Progressive Web Apps, WebRTC, Microsoft Azure, and Amazon Web Services" width="100%" />
 </p>
 
 ### AI, Learning, and Collaboration
 
 <p align="center">
-  <img src="./assets/tech-ai-learning-v52.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, and Articulate 360" width="100%" />
+  <img src="./assets/tech-ai-learning-v53.gif" alt="Animated AI, Learning, and Collaboration technology row: OpenAI, Claude, Gemini, Microsoft 365, Canvas LMS, and Articulate 360" width="100%" />
 </p>
 
 ## Current Focus
