@@ -34,11 +34,11 @@ A founder-led digital product company focused on practical, user-centered techno
 
 ### [Teaching with Technology](https://www.xavier.edu/teachingwithtech/)
 
-A faculty-facing educational technology ecosystem that organizes tools, teaching strategies, accessibility guidance, and practical implementation resources.
+A faculty-facing educational technology ecosystem that organizes tools, teaching strategies, accessibility guidance, and practical implementation resources. (Cascade CMS)
 
 ### [Generative AI Hub](https://www.xavier.edu/teachingwithtech/genai/)
 
-A structured collection of AI guidance for higher education, including prompting support, tool comparisons, quick wins, examples, responsible-use considerations, and Jesuit teaching perspectives.
+A structured collection of AI guidance for higher education, including prompting support, tool comparisons, quick wins, examples, responsible-use considerations, and Jesuit teaching perspectives. (Cascade CMS)
 
 ### [EdTech Assistant (ETA)](https://chatgpt.com/g/g-69ffe6dfccf48191b6afb459d0c78cce-edtech-assistant-eta)
 
