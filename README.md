@@ -99,9 +99,9 @@ A custom GPT designed to provide practical educational technology support for fa
 
 ## Connect
 
+- [Email Me](mailto:daniel@wooddelldigitalventures.com)
 - [LinkedIn](https://www.linkedin.com/in/daniel-wooddell/)
 - [Portfolio Site](https://danielwooddell.com/)
-- [Email](mailto:daniel@wooddelldigitalventures.com)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://w-interface.com/)
 
