@@ -106,7 +106,7 @@ A custom GPT designed to provide practical educational technology support for fa
 - [Email Me](mailto:daniel@wooddelldigitalventures.com)
 - [Book Me](https://cal.com/daniel-wooddell-symzhc/30min)
 - [LinkedIn](https://www.linkedin.com/in/daniel-wooddell/)
-- [Portfolio Site](https://danielwooddell.com/)
+- [Personal Portfolio](https://danielwooddell.com/)
 - [Wooddell Digital Ventures](https://wooddelldigitalventures.com/)
 - [WInterface™](https://w-interface.com/)
 
