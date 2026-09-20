@@ -72,7 +72,7 @@ A custom GPT designed to provide practical educational technology support for fa
 
 - Completing a Master of Science in **Instructional Design & Development**
 - Building and refining **WInterface™** as the flagship product of Wooddell Digital Ventures
-- Learning and applying **Python** for validation, automation, testing, and development tooling
+- Applying **Python** for validation, automation, testing, and development tooling
 - Exploring responsible and practical uses of generative AI in teaching, course design, and faculty workflows
 - Expanding accessible, faculty-centered educational technology resources
 - Applying web analytics, performance monitoring, and security tools to better understand and improve digital experiences
