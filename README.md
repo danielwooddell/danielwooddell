@@ -40,7 +40,7 @@ A faculty-facing educational technology ecosystem that organizes tools, teaching
 
 A structured collection of AI guidance for higher education, including prompting support, tool comparisons, quick wins, examples, responsible-use considerations, and Jesuit teaching perspectives. (Cascade CMS)
 
-### [WInterface Chat Bot](https://w-interface.com/resources/)
+### [WInterface Help Bot](https://w-interface.com/resources/)
 
 An interactive support chatbot designed to help users navigate WInterface features, controls, commands, resources, and common workflows. Built to provide concise, product-specific guidance directly within the WInterface support ecosystem.
 
