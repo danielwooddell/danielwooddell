@@ -111,3 +111,7 @@ A custom GPT designed to provide practical educational technology support for fa
 - [WInterface™](https://w-interface.com/)
 
 > Technology should reduce friction, expand access, and make the next step obvious.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielwooddell&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
