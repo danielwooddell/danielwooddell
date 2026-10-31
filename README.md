@@ -50,7 +50,7 @@ A custom GPT designed to provide practical educational technology support for fa
 
 ## Technologies and Platforms
 
-### Web and Development
+### Web Development
 
 <p align="center">
   <img src="./assets/tech-web-development-v53.gif" alt="Animated Web and Development technology row: HTML5, CSS, JavaScript, JSON, Python, Git, GitHub, GitHub Pages, and Visual Studio Code" width="100%" />
